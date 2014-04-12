@@ -27,5 +27,5 @@ yatesdom = [
 ]
 
 module.exports = (robot) ->
-  robot.respond /(?:Christian\s+)?Yates/i, (msg) ->
+  robot.respond /yates me/i, (msg) ->
     msg.send msg.random yatesdom
