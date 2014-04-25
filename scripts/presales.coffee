@@ -20,6 +20,8 @@ presales = [
   "Drupal can do that!"
   "There's a module for that."
   "I'll cut a bitch."
+  "What does success look like?"
+  "Why? Why? Why? Why? Why?"
 ]
 
 module.exports = (robot) ->
