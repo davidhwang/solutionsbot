@@ -21,6 +21,11 @@ salesguy = [
   "How many Drupals can I sign you up for?"
   "Get ready for greatness!!!!!!!!!!!!!!!!!!!!!!"
   "Modules in the community are sent to OCTO and they will approve or send back"
+  "This is why you hire guys like me, from the Enterprise"
+  "Dries personally reviews every line of code"
+  "WIN REPORT"
+  "WINNING REPORT"
+  "THE WIN"
 ]
 
 module.exports = (robot) ->
