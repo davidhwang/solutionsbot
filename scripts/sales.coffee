@@ -19,6 +19,7 @@ salesguy = [
   "Hand picked by Dries himself"
   "The table is set, … let's eat"
   "How many Drupals can I sign you up for?"
+  "Get ready for greatness!!!!!!!!!!!!!!!!!!!!!!"
 ]
 
 module.exports = (robot) ->
