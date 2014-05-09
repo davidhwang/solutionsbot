@@ -27,6 +27,7 @@ salesguy = [
   "WINNING REPORT"
   "THE WIN"
   "We are playing with nothing to lose!"
+  "Dollars to doughnuts!"
 ]
 
 module.exports = (robot) ->
