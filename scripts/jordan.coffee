@@ -1,5 +1,5 @@
 # Description:
-#   Display a picture of Michael Jordan if anyone invokes "jordan" or says "mj"
+#   Display a picture of Michael Jordan if anyone invokes "jordan" or "mj"
 #   Cause Jordan is God. So much more than Steve Jobs :D
 #
 # Dependencies:
@@ -26,5 +26,5 @@ images = [
 ]
 
 module.exports = (robot) ->
-  robot.hear /(jordan|mj)/i, (msg) ->
+  robot.respond /(jordan|mj)/i, (msg) ->
     msg.send msg.random images
